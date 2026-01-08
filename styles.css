@@ -113,3 +113,9 @@ form input, form textarea {
     transform: translateY(-3px); 
     box-shadow: 0 5px 15px rgba(0,0,0,0.1); 
 }
+
+.work-table, .work-table th, .work-table td {
+    border: 1px solid #ddd; 
+    border-collapse: collapse; 
+    padding: 10px;
+}
